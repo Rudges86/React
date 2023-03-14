@@ -5,6 +5,7 @@ Este projeto foi desenvolvido no curso para aplicar os conhecimentos do react (h
 ## Dependências do projeto
  - axios
  - react-router-dom
+ - react-toastify (Serve para personalizar alertas)
  -API themoviedb
 ### `npm start`
 -Rodando o projeto, basta dar um npm install para instalar as depedências do projeto, após baixar todas basta dar um npm start que o projeto irá abrir no navegador no seguinte endereço (http://localhost:3000).
